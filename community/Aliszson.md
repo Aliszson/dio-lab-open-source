@@ -3,7 +3,6 @@
 </p>
 
 <h3 style="margin-top: 0;">📚 Estudante de Ciência da Computação apaixonado por tecnologia e em constante busca por novos desafios.</h3>
-
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliszson&layout=compact&bg_color=000&border_color=30A3DC&title_color=B13BBAFF&text_color=FFF&hide=jupyter%20notebook" width="300">
 <img src="https://github-readme-stats.vercel.app/api?username=aliszson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B13BBAFF&text_color=FFF&" width="395.3">
